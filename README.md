@@ -7,6 +7,8 @@ Couple of quick wee notes about this solution;
 1. This is not the most efficient implementation; Python does not store the location of the end of one of their lists, so 
 do note that when assembling a request packet.
 
+2. I spent more time trying to get this prettied up for a pdf submission than I did writing it.
+
 
 
 
