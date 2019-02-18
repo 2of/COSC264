@@ -18,5 +18,6 @@ The client creates and sends a dt_request packet to a server/port specified by t
 
 The server.py receives the dt_request, makes sure its all dandy (that is the header is tip top and valid) and returns a dt_response and terminates connection with the client. 
 
+Comments about explicit functionality were removed for submission guidelines, but that said its a pretty straightforward operation here. 
 
 That's about it. 
